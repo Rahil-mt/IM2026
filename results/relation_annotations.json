@@ -1,0 +1,12056 @@
+{
+  "0": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines dignity"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: fails to deter"
+      ],
+      [
+        4,
+        1,
+        "Support",
+        "Reason: cruel and irreversible"
+      ],
+      [
+        5,
+        4,
+        "Support",
+        "Reason: violates international law"
+      ],
+      [
+        6,
+        1,
+        "Attack",
+        "Opposition: deterrence"
+      ],
+      [
+        7,
+        6,
+        "Attack",
+        "Counters: no conclusive evidence"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: wrongful convictions"
+      ],
+      [
+        9,
+        1,
+        "Support",
+        "Alternative: rehabilitation"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ],
+      [
+        "e9",
+        "a9"
+      ],
+      [
+        "e10",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "1": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: human rights, judicial integrity"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: deterrence"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: biases, irreversibility"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: wrongful convictions"
+      ],
+      [
+        6,
+        1,
+        "Attack",
+        "Second opposition: closure for victims"
+      ],
+      [
+        7,
+        6,
+        "Attack",
+        "Counters: alternatives exist"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "2": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: human rights, moral leadership"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: irreversible, errors"
+      ],
+      [
+        4,
+        3,
+        "Support",
+        "Chained: wrongful executions"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: deterrence"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: no statistical evidence"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: systemic inequalities"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Alternative: rehabilitation"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ],
+      [
+        "e9",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "3": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: democratic values"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: deterrence"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: irreversible, miscarriage"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: systemic inequalities"
+      ],
+      [
+        6,
+        1,
+        "Attack",
+        "Second opposition: heinous offenses"
+      ],
+      [
+        7,
+        6,
+        "Attack",
+        "Counters: proportionality"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "4": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines dignity"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: doesn't serve justice"
+      ],
+      [
+        4,
+        1,
+        "Support",
+        "Reason: perpetuates vengeance"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: deterrence"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: no empirical evidence"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: wrongful execution risk"
+      ],
+      [
+        8,
+        1,
+        "Attack",
+        "Second opposition: retribution"
+      ],
+      [
+        9,
+        8,
+        "Attack",
+        "Counters: humane systems"
+      ],
+      [
+        10,
+        1,
+        "Support",
+        "Alternative: prison reforms"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ],
+      [
+        "e9",
+        "a9"
+      ],
+      [
+        "e10",
+        "a10"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "5": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: fails to deter, perpetuates violence"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: just response"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: irreversible, wrongful convictions"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: judicial errors, bias"
+      ],
+      [
+        6,
+        1,
+        "Attack",
+        "Second opposition: public safety"
+      ],
+      [
+        7,
+        6,
+        "Attack",
+        "Counters: alternative sentencing"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "6": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: human rights"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: fails as deterrent"
+      ],
+      [
+        4,
+        1,
+        "Support",
+        "Reason: targets marginalized groups"
+      ],
+      [
+        5,
+        4,
+        "Support",
+        "Chained: violates equal justice"
+      ],
+      [
+        6,
+        1,
+        "Attack",
+        "Opposition: closure, accountability"
+      ],
+      [
+        7,
+        6,
+        "Attack",
+        "Counters: life imprisonment achieves same"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: wrongful convictions"
+      ],
+      [
+        9,
+        1,
+        "Support",
+        "Alternative: rehabilitation"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ],
+      [
+        "e9",
+        "a9"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "7": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: human rights, dignity"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: deterrence"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: systemic flaws"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: executing innocents"
+      ],
+      [
+        6,
+        1,
+        "Attack",
+        "Second opposition: closure"
+      ],
+      [
+        7,
+        6,
+        "Attack",
+        "Counters: life imprisonment alternative"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "8": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: democratic principles"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: hinders security"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: frameworks mitigate"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: public trust/civil liberties"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: additional support"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "10": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: transparency, democratic principles"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: hinders security operations"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: targeted legislation preserves efficiency"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: public scrutiny, legal constraints"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "12": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: democratic principles"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: hinders security"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: frameworks mitigate"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: public trust/civil liberties"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: additional support"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "14": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: democratic principles"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: hinders security"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: frameworks mitigate"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: public trust/civil liberties"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: additional support"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "9": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines effectiveness"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: oversight enhances accountability"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: practical challenges"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: political interference risk"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Alternative: independent oversight"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "11": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines effectiveness"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: oversight ensures accountability"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: bureaucratic interference"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: transparency is important"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: excessive control hinders response"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Alternative: independent audits"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ],
+      [
+        "e8",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "13": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: hinders effectiveness"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: oversight ensures accountability"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: existing frameworks address this"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: politicization and delays"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: operational flexibility needed"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "15": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: hinders effectiveness"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: transparency enhances accountability"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks necessity for secrecy"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: bureaucratic delays"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "18": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: stronger deterrent"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: affects low-income"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: targeted programs"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: enforcement/compliance"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: community standards"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "20": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: stronger deterrent"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: affects low-income"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: targeted programs"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: enforcement/compliance"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: community standards"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "22": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: stronger deterrent"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: affects low-income"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: targeted programs"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: enforcement/compliance"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: community standards"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "16": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: stronger deterrent"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: affects low-income"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: targeted education"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: public compliance"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "17": {
+    "adu_types": [
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Attack",
+        "Concession: penalties might deter"
+      ],
+      [
+        3,
+        2,
+        "Attack",
+        "Counters: unintended consequences"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: stricter enforcement needed"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks education"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: affects low-income"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Alternative: public awareness"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "19": {
+    "adu_types": [
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Attack",
+        "Concession: penalties might deter"
+      ],
+      [
+        3,
+        2,
+        "Attack",
+        "Counters: don't address root causes"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: stricter consequences"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks disposal/evidence issues"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: affects low-income"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Alternative: education + infrastructure"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: community initiatives"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "21": {
+    "adu_types": [
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Attack",
+        "Concession: penalties might deter"
+      ],
+      [
+        3,
+        2,
+        "Attack",
+        "Counters: don't address root causes"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: stricter consequences"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks disposal/evidence issues"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: affects low-income"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Alternative: education + infrastructure"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: community initiatives"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "23": {
+    "adu_types": [
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Attack",
+        "Concession: penalties might deter"
+      ],
+      [
+        3,
+        2,
+        "Attack",
+        "Counters: don't address root causes"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: stricter consequences"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks disposal/evidence issues"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: affects low-income"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Alternative: education + infrastructure"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: community initiatives"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "24": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Context: broadcasting needs funding"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: compulsory fees deter access"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: compulsory ensures equity"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: indirect benefits exist"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "25": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: essential content benefits society"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: forcing non-viewers violates choice"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks societal value"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: alternative funding under-resources media"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "26": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        1,
+        2,
+        "Support",
+        "Premise: broadcasting's crucial role"
+      ],
+      [
+        3,
+        2,
+        "Support",
+        "Reason: efficient resource allocation"
+      ],
+      [
+        4,
+        2,
+        "Attack",
+        "Opposition: undermines equal access"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: flexible verification"
+      ],
+      [
+        6,
+        2,
+        "Support",
+        "Reason: aligns support with consumption"
+      ]
+    ],
+    "label": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a2"
+      ],
+      [
+        "e7",
+        "a6"
+      ]
+    ],
+    "central_claim": 2
+  },
+  "27": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: essential services benefit society"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: voluntary ensures fair use"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks role of taxation"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: compulsory ensures equitable distribution"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "28": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Context: broadcasting needs funding"
+      ],
+      [
+        3,
+        2,
+        "Support",
+        "Chained: unavailable through commercial channels"
+      ],
+      [
+        4,
+        1,
+        "Support",
+        "Reason: compulsory fee burdens non-beneficiaries"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: mandatory fees ensure equity"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: fails to respect choice"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Proposes: targeted subsidies"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ],
+      [
+        "e8",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "29": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: crucial role in culture and democracy"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: charging non-viewers is unfair"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks societal benefits"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: universal fee ensures equity"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: voluntary models underfund"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "30": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: quality programming without bias"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: compulsory infringes choice"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks societal benefit"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: supports infrastructure"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: responsible use of resources"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ],
+      [
+        "e7",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "31": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines equitable access"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: essential roles in news, education"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: forcing payment violates choice"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: ignores collective value"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: subscription excludes marginalized"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: taxation ensures representation"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "32": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: reduces pregnancies"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: ensures timely use"
+      ],
+      [
+        4,
+        3,
+        "Support",
+        "Chained: effective within 72 hours"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: misuse among minors"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: age verification"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: healthcare equity"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "33": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: requires medical guidance"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: easy access improves autonomy"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks misuse"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: improper dosing risk"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: ethical dilemmas"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "34": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: reduces pregnancies"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: ensures timely use"
+      ],
+      [
+        4,
+        3,
+        "Support",
+        "Chained: effective within hours"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: misuse among minors"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: age verification"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: reproductive autonomy"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "35": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: misuse and reduced effectiveness"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: easy access improves health"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks improper use"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: education alongside distribution"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "36": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: critical for preventing pregnancies"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: ensures timely access"
+      ],
+      [
+        4,
+        3,
+        "Support",
+        "Chained: reduces pregnancy rates"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: misuse risk"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: evidence shows safe"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: public health goals"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "37": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: misuse among adolescents"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: easy access improves availability"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks risk-taking"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: removing regulation removes oversight"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "38": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: reduces barriers"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: misuse among minors"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: age verification"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: reproductive autonomy"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: pharmacies provide counseling"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "39": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: misuse among adolescents"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: easy access improves availability"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks inappropriate use"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: accessibility is important"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: informed decision-making requires guidance"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: pharmacies provide counseling"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "40": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: equal access/public good"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: burdens/deters low-income"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: fee revenue improves infrastructure"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: exclusionary/overlooks benefits"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: additional support"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: already funded/additional support"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: public investment/alternative"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "41": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: equal access/public good"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: burdens/deters low-income"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: fee revenue improves infrastructure"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: exclusionary/overlooks benefits"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: additional support"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: already funded/additional support"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: public investment/alternative"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "42": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: inequality/affects low-income"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: deters/creates barriers"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: fees fund infrastructure"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks benefits/alternatives"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: already subsidised/growth"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: competitiveness/scholarships"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "44": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: inequality/affects low-income"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: deters/creates barriers"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: fees fund infrastructure"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks benefits/alternatives"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: already subsidised/growth"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: competitiveness/scholarships"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "43": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: equitable access"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: financial barriers"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: fee revenue improves resources"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks societal benefits"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: fosters innovation"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: public funding prioritises research"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "45": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: accessible education"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: deters low-income"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: fee revenue"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: public funding already supports"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: free access fosters innovation/burdens"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "46": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: accessible education"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: deters low-income"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: fee revenue"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: public funding already supports"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: free access fosters innovation/burdens"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "47": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: social equity"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: barriers for low-income"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: fees sustain budgets"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks societal benefits"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: lifelong learning"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: public funding ensures quality"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "48": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: alleviates pressure"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: preserving public space better"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: sustainable development incorporates green"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: economic growth"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: denser resource use"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "49": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: historical significance"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: development addresses housing"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks preservation benefits"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: economic growth is important"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: profit erodes identity"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "50": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: housing crisis"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: preserving public space better"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: thoughtful planning"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: economic growth"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: integrating green areas"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "51": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: historic site, preservation essential"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: development addresses housing"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: prioritises economic gain"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: density provides spaces"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: erodes unique character"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: sustainable alternatives exist"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Alternative: affordable housing in existing structures"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "52": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: affordable housing"
+      ],
+      [
+        3,
+        2,
+        "Support",
+        "Chained: adaptive reuse allows preservation"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: disrupts public space"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: thoughtful planning"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: mixed-use enhances community"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "53": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: symbol of resistance"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: urban expansion requires repurposing"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks unique identity"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: diminishes access for future generations"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "54": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: addresses housing shortages"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: historical significance more important"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks need for infrastructure"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: enhances access via mixed-use"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: sustainable building"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: adaptive reuse"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "55": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: recognised public space"
+      ],
+      [
+        3,
+        2,
+        "Support",
+        "Chained: could be lost if developed"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: urban expansion requires reuse"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks living museum"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: traffic, displacement"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: erodes social equity"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Alternative: mixed-use developments"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "56": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: comprehensive assessment"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: evaluates critical thinking"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: undue stress"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: structured support"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: deeper engagement"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "57": {
+    "adu_types": [
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Attack",
+        "Concession: emphasis reflects mastery"
+      ],
+      [
+        3,
+        2,
+        "Attack",
+        "Counters: risks undervaluing coursework"
+      ],
+      [
+        4,
+        1,
+        "Support",
+        "Reason: disproportionately affects challenged students"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: thesis is comprehensive demonstration"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: overlooks preparatory courses"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "58": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: comprehensive understanding"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: demonstrates critical thinking"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: disadvantages less experienced"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: mitigated through guidance"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: deeper engagement"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: aligns with real-world demands"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "59": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: learning through coursework"
+      ],
+      [
+        3,
+        2,
+        "Support",
+        "Chained: frequent feedback"
+      ],
+      [
+        4,
+        1,
+        "Support",
+        "Reason: penalises research-struggling students"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: emphasis reflects graduate skills"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: overlooks diverse strengths"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: reducing continuous evaluation hinders growth"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "60": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: comprehensive understanding"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: sustained effort and analysis"
+      ],
+      [
+        4,
+        3,
+        "Support",
+        "Chained: essential indicators of readiness"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: disadvantages writing-struggling students"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: mitigated through support"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: deeper engagement"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "61": {
+    "adu_types": [
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Attack",
+        "Concession: higher weighting reflects knowledge"
+      ],
+      [
+        3,
+        2,
+        "Attack",
+        "Counters: risks penalising struggling students"
+      ],
+      [
+        4,
+        1,
+        "Support",
+        "Reason: balanced assessment ensures fairness"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: emphasis encourages engagement"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: assumes uniform access"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: could discourage creativity"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "62": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: culmination of knowledge"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: deep exploration"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: disadvantages less experienced"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: mitigated through support"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: higher-order learning"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: aligns with educational goals"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "63": {
+    "adu_types": [
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Attack",
+        "Concession: thesis is comprehensive"
+      ],
+      [
+        3,
+        2,
+        "Attack",
+        "Counters: undervalues other skills"
+      ],
+      [
+        4,
+        1,
+        "Support",
+        "Reason: penalises practical students"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: thesis integral to training"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: doesn't reflect real-world"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: unnecessary stress"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: diverse styles need varied assessments"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "64": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: ensures stability"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: discourages investment"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: transparent frameworks"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: social equity"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: encourages maintenance"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "65": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: flexibility needed"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: controls protect renters"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: discourages investment"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: both sides suffer"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: adjustments must reflect costs"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "66": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: protects renters"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: landlords need flexibility"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks unchecked inflation"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: predictable income"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: regulatory oversight"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: transparent guidelines"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "67": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermine stability"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: flexibility needed"
+      ],
+      [
+        4,
+        3,
+        "Support",
+        "Chained: ensures fair pricing"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: caps protect tenants"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: ignores landlord strain"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: decreased supply"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: inefficiencies outweigh benefits"
+      ],
+      [
+        9,
+        1,
+        "Support",
+        "Reason: fails to address underlying issues"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ],
+      [
+        "e9",
+        "a9"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "68": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: flexibility for costs"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: properties deteriorate"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: caps protect renters"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: discourages investment"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: doesn't address systemic issues"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Alternative: strict regulations"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: competitive dynamics"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "69": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: disrupt dynamics"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: flexibility needed"
+      ],
+      [
+        4,
+        3,
+        "Support",
+        "Chained: ensures availability"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: controls protect tenants"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: reduced maintenance"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: landlords withdraw"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: regional differences"
+      ],
+      [
+        9,
+        1,
+        "Support",
+        "Alternative: transparency measures"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ],
+      [
+        "e9",
+        "a9"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "70": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: discourages maintenance"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: no incentive to invest"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: capping protects renters"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: reduced availability"
+      ],
+      [
+        6,
+        5,
+        "Support",
+        "Chained: fewer units exacerbates shortages"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: dynamic market"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: fair pricing mutual benefit"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "71": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: discourages maintenance"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: financial incentives needed"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: caps protect tenants"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks investment reduction"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: landlords withdraw"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: black-market rentals"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Alternative: accountability through contracts"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "72": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: effective where conventional falls short"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: patients report relief"
+      ],
+      [
+        4,
+        3,
+        "Support",
+        "Chained: fewer side effects"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: lack validation"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: research supports efficacy"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: patient choice"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: diverse healing practices"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "73": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: lack validation"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: inconsistent evidence"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: patients deserve diverse options"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks waste"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: diverts funds"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: cost-effectiveness"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: undermines trust"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "74": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: effective where conventional falls short"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: chronic pain, fewer side effects"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: lack validation"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: used safely for centuries"
+      ],
+      [
+        6,
+        1,
+        "Attack",
+        "Concession: limited evidence"
+      ],
+      [
+        7,
+        6,
+        "Attack",
+        "Counters: dismissing ignores benefits"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: reduces costs"
+      ],
+      [
+        9,
+        1,
+        "Support",
+        "Reason: patient choice"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ],
+      [
+        "e9",
+        "a9"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "75": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: lack validation"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: no clinical trials"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: patients may benefit"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: doesn't justify coverage"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: diverts resources"
+      ],
+      [
+        7,
+        1,
+        "Attack",
+        "Concession: some find relief"
+      ],
+      [
+        8,
+        7,
+        "Attack",
+        "Counters: risks undermining standards"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ],
+      [
+        "e9",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "76": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: effective where conventional falls short"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: holistic benefits"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: lack validation"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: growing evidence"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: equitable access"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: encourages innovation"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "77": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: lack validation"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: no comparable trials"
+      ],
+      [
+        4,
+        1,
+        "Support",
+        "Reason: diverts resources (author-aligned critics)"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: some report benefits"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: doesn't establish validity"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: increased costs"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "78": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: effective where conventional falls short"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: holistic benefits, reduces pharma reliance"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: lack validation"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: evidence-based integration occurring"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: patient autonomy"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: cultural relevance"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "79": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: lack validation, delays care"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: no rigorous trials"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: patients deserve diverse options"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks risks"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: diverts funding"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: cost-effective solutions"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: erodes trust"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "80": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: consumer choice, economic activity"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: closing promotes rest"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks diverse needs"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: retailers benefit, jobs"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: consumers value flexibility"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: aligns with evolving norms"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "81": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: disrupts traditions, overburdens employees"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: businesses need flexibility"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: prioritises commercial over well-being"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: traffic, environmental strain"
+      ],
+      [
+        6,
+        1,
+        "Attack",
+        "Concession: consumer demand justifies availability"
+      ],
+      [
+        7,
+        6,
+        "Attack",
+        "Counters: overlooks balanced leisure time"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "82": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: supports economic activity"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: benefits local businesses"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: closing respects community values"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: diverse beliefs, closures disproportionate"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: flexible hours help workers"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "83": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: disrupts traditions, stresses workers"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: businesses need flexibility"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: prioritises commercial over well-being"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: holiday commerce benefits economies"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: costs social cohesion"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: promotes unhealthy habits"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "84": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: consumer choice, stimulates economies"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: infringes cultural traditions"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: many holidays are secular"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: businesses adapt hours"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: reduces weekday congestion"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "85": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: disrupts family time"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: businesses need flexibility"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks public life impact"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: holiday hours benefit growth"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: increased stress, reduced leisure"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: longer workweeks, unsustainable habits"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "86": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: supports economies, employment"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: disrupts family time"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: activities can still occur"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: flexible hours accommodate schedules"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: cultural events alongside commerce"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: fosters inclusivity"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "87": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: prioritises commercial over well-being"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: holidays for rest, family"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: extended hours boost economies"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: benefit doesn't justify compromising values"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: unsustainable debt, environmental strain"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Alternative: responsible consumption"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "88": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: supports sovereignty"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: violates sovereignty"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks EU responsibility"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: historical ties"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "89": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines sovereignty"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: EU promotes democratic values"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: imposes foreign priorities"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Second opposition: international support necessary"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: leads to policy misalignment"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "90": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: long-term security"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: undermines autonomy"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks EU's role"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: historical ties"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: deters aggression"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "91": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines sovereignty"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: EU promotes stability"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: assumes uniformity"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: guidance fosters development"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: leads to dependency"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "92": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: peace and security"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: undermines sovereignty"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks instability consequences"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: historical ties"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "93": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines sovereignty"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: European support essential"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: risks justifying interference"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: moral responsibility"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: imposing conditions erodes trust"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "94": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: prevents interference"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: undermines autonomy"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: collective action strengthens"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: regional peace"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: deters aggression"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "95": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines sovereignty"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: democratic reforms justified"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks destabilisation"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: imposed solutions fail"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "101": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: necessary for sustainability"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: affects older workers"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: gradual implementation mitigates"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: economic participation"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: modern career patterns"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "103": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: aligns with life expectancy"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: affects older workers"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: flexible options mitigate"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: accumulate more savings"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "104": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines integrity"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: revenue recovery"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: dangerous precedents"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: financial gain over ethics"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "105": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines integrity"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: lacks reliability in court"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: expedites justice"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: wrongful convictions"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: dangerous precedents"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "106": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines integrity"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: aids justice"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: compromises due process"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: damage to public trust"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: normalizes unethical methods"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "107": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: compromises integrity"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: lacks evidentiary reliability"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: aids exposing wrongdoing"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: wrongful accusations"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: dangerous precedent"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: fails to address systemic issues"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "108": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: endorses corruption"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Concession: revenue recovery"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: legitimizes fraud"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: bypassing channels necessary"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: sets precedents"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Alternative: international cooperation"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ],
+      [
+        "e8",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "109": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: compromises security"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: aids uncovering crimes"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: undermines due process"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: evidence contested"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "110": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: legitimizes corruption"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: legal uncertainties"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: necessary to combat evasion"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: wrongful targeting"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Alternative: transparent methods"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "111": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: undermines integrity"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: increased revenue"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: wrongful convictions"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: dangerous precedents"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "112": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: vital for regional communities"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: closing streamlines"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: overlooks benefits"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: Brandenburg offers capacity"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: higher costs hinder accessibility"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: equitable options"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "113": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: outdated infrastructure"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Concession: closing disrupts employment"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: retraining programs"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: consolidation enhances connectivity"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: two airports create competition"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "114": {
+    "adu_types": [
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Attack",
+        "Concession: Brandenburg offers modern infrastructure"
+      ],
+      [
+        3,
+        2,
+        "Attack",
+        "Counters: Tegel provides reliable, lower-cost service"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: closing streamlines"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks economic impact"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: resilience"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: regional connectivity"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "115": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: outdated infrastructure"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: closing disrupts services"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: neglects long-term benefits"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: passengers face inconvenience"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: costs pale vs improvements"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: administrative complexity"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: phased closure"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "116": {
+    "adu_types": [
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Attack",
+        "Concession: closing streamlines"
+      ],
+      [
+        3,
+        2,
+        "Attack",
+        "Counters: overlooks economic benefits"
+      ],
+      [
+        4,
+        1,
+        "Support",
+        "Reason: efficient for regional flights"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Opposition: redundancy and inefficiency"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: ignores unique roles"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: connectivity, lower fares"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: sustainable development"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "117": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: aging infrastructure"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: closing disrupts economies"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: mitigated through investment"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: consolidation enhances efficiency"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: urban planning goals"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "118": {
+    "adu_types": [
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Attack",
+        "Concession: Brandenburg offers modern facilities"
+      ],
+      [
+        3,
+        2,
+        "Attack",
+        "Counters: Tegel provides essential services"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: closing streamlines"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks economic impact"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: resilience"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: regional diversity"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "119": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: outdated, inefficient"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: closing disrupts economies"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: jobs can transition"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: consolidation reduces costs"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: improved connections"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "120": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: physical activity, cognitive development"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: coordination, teamwork"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: lacks physical exertion"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks mental benefits"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: evolving understanding"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: inspires youth"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "121": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: lacks physicality"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: relies on technology"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: established competitions"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: prioritise entertainment"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: undermines core values"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: no standardised rules"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "122": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: physical activity, global competition"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: lacks exertion"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: involves thinking, endurance"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: esports purely virtual"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: reflects real-world skills"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: broader participation"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: evolving definitions"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "123": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: lacks physicality"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: specialised equipment"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: global phenomenon"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks mental vs physical"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: dilutes significance"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "124": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: physical activity, cognitive skills"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: lacks physicality"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: eSports demonstrate rigor"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: attracts youth, inclusivity"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "125": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: lacks physicality"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: digital platforms"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: established leagues"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: prioritise entertainment"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: dilutes significance"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "126": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: strategic thinking, coordination"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: lacks exertion"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: intense concentration"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: inspires youth"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "127": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: lacks significance and rigor"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: no physical exertion"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: technology allows excellence"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: overlooks mental vs physical"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: dilutes prestige"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "128": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: minimizes distractions"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: infringes expression"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: flexible guidelines"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: community and belonging"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: inclusive education"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: lower bullying"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "129": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "opp",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: hinders expression"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: promote equality"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: disparities persist"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: increased costs"
+      ],
+      [
+        6,
+        1,
+        "Attack",
+        "Concession: uniforms foster discipline"
+      ],
+      [
+        7,
+        6,
+        "Attack",
+        "Counters: behavioral programs better"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "130": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: eliminates disparities"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: stifles expression"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: personal accessories"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: prefer freedom"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: benefits outweigh"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: simplifies routines"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: flexible guidelines"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "131": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: hinders individuality"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: promote equality"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: true equality through inclusive policies"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: affects low-income"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: fails to address deeper issues"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "132": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: inclusive environment"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: stifles individuality"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: exceptions for cultural attire"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: school spirit"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: improved focus"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "133": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: little improvement, conformity"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: promote equality"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: wealthier afford better anyway"
+      ],
+      [
+        5,
+        1,
+        "Support",
+        "Reason: dress codes lead to conflicts"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "134": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: belonging, minimizes divisions"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: stifles individuality"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: expression through accessories"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: uniforms limit expression"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: practical benefits outweigh"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: simplifies routines"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: student involvement in design"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "135": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: little improvement, conformity"
+      ],
+      [
+        3,
+        1,
+        "Attack",
+        "Opposition: reduce distractions, equality"
+      ],
+      [
+        4,
+        3,
+        "Attack",
+        "Counters: stifling effect"
+      ],
+      [
+        5,
+        1,
+        "Attack",
+        "Concession: foster community"
+      ],
+      [
+        6,
+        5,
+        "Attack",
+        "Counters: disparities persist"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: fails to address bullying"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a1"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "136": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: enhances efficiency"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: reduces contamination"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: burdensome"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: long-term benefits"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: sustainable manufacturing"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: climate awareness"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: education strengthens"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "137": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: inefficient"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: consumes energy"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: increases participation"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: costs outweigh"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: contamination"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Alternative: reduce consumption"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Alternative: advanced technologies"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "138": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: increases efficiency"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: reduces contamination"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: inconvenient"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: education mitigates"
+      ],
+      [
+        6,
+        1,
+        "Attack",
+        "Concession: landfill space abundant"
+      ],
+      [
+        7,
+        6,
+        "Attack",
+        "Counters: landfills cause degradation"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: circular economy"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "139": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: inefficient, contamination"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: recyclables in landfills"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: encourages responsibility"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: assumes consistent practice"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: costs outweigh"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Alternative: composting"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "140": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: improves efficiency"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: no contamination"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: inconvenient"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: education mitigates"
+      ],
+      [
+        6,
+        1,
+        "Attack",
+        "Concession: landfill space sufficient"
+      ],
+      [
+        7,
+        6,
+        "Attack",
+        "Counters: overlooks environmental harm"
+      ],
+      [
+        8,
+        1,
+        "Support",
+        "Reason: reduces extraction, emissions"
+      ],
+      [
+        9,
+        1,
+        "Support",
+        "Reason: community responsibility"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ],
+      [
+        "e8",
+        "a8"
+      ],
+      [
+        "e9",
+        "a9"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "141": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: fails to achieve benefits"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: contamination, costs"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: encourages participation"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: outweighed by inefficiencies"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Alternative: advanced technologies"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: systemic changes"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "142": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: enhances efficiency"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: minimizes landfill"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: inconvenient, contamination"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: education mitigates"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Reason: reduces emissions"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: continued investment"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  },
+  "143": {
+    "adu_types": [
+      "pro",
+      "pro",
+      "pro",
+      "opp",
+      "pro",
+      "pro",
+      "pro"
+    ],
+    "relations": [
+      [
+        2,
+        1,
+        "Support",
+        "Reason: inefficient, contamination"
+      ],
+      [
+        3,
+        1,
+        "Support",
+        "Reason: resources outweigh benefits"
+      ],
+      [
+        4,
+        1,
+        "Attack",
+        "Opposition: increases participation"
+      ],
+      [
+        5,
+        4,
+        "Attack",
+        "Counters: high costs, low effectiveness"
+      ],
+      [
+        6,
+        1,
+        "Support",
+        "Alternative: centralized processing"
+      ],
+      [
+        7,
+        1,
+        "Support",
+        "Reason: systemic changes"
+      ]
+    ],
+    "label": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "seg": [
+      [
+        "e1",
+        "a1"
+      ],
+      [
+        "e2",
+        "a2"
+      ],
+      [
+        "e3",
+        "a3"
+      ],
+      [
+        "e4",
+        "a4"
+      ],
+      [
+        "e5",
+        "a5"
+      ],
+      [
+        "e6",
+        "a6"
+      ],
+      [
+        "e7",
+        "a7"
+      ]
+    ],
+    "central_claim": 1
+  }
+}

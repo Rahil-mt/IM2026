@@ -1,0 +1,100 @@
+USER
+
+prompt_B_re = f"""Write an argumentative microtext that follows the rules below.
+
+Rules:
+1. The text must consist of 4 to 6 sentences.
+2. Exactly one sentence must express the main claim and clearly state the author’s stance.
+3. All other sentences must function as argumentative reasons that either support the main claim or challenge it.
+4. At least one sentence must present a clear opposing viewpoint.
+5. If an opposing viewpoint is presented, at least one sentence must respond to or weaken it.
+6. The text must end with an argumentative reason (support or response), not with a summary or conclusion.
+7. Do not restate or reformulate the main claim after it is stated.
+8. Each sentence must express a complete argumentative proposition.
+9. The argument must be understandable on its own without relying on unstated assumptions.
+
+Topic: {topic}
+Stance: {stance}
+
+Write the microtext as a single coherent paragraph.
+Do not include explanations, labels, or any additional text.
+"""
+
+prompt_A_re = f"""Write an argumentative microtext that follows the rules below.
+
+Rules:
+1. The text must consist of exactly 4 sentences.
+2. Exactly one sentence must express the main claim and clearly state the author’s stance.
+3. The other sentences must function as argumentative reasons that either support the main claim or challenge it.
+4. At least one sentence must present a clear opposing viewpoint.
+5. If an opposing viewpoint is presented, one sentence must respond to or weaken it.
+6. Do not restate or reformulate the main claim after it is stated.
+7. Do not include neutral summaries or balanced conclusions.
+8. Each sentence must express a complete argumentative proposition.
+
+Topic: {topic}
+Stance: {stance}
+
+Write the microtext as a single coherent paragraph.
+Do not include explanations, labels, or any additional text.
+"""
+
+
+prompt_B = f"""Write an argumentative microtext that follows the rules below.
+
+Rules:
+1. The text must consist of 4 to 6 sentences.
+2. Exactly one sentence must express the main claim and clearly state the author’s stance.
+3. All other sentences must function as reasons that either support the main claim or challenge it.
+4. At least one sentence must present a clear opposing viewpoint.
+5. If an opposing viewpoint is presented, at least one sentence must respond to or weaken it.
+6. Do not restate, reformulate, or summarize the main claim after it is stated.
+7. Do not include any concluding, synthesizing, or evaluative sentence.
+8. Each sentence must express a complete argumentative proposition.
+9. The argument must be understandable on its own without relying on unstated assumptions.
+
+Topic: {topic}
+Stance: {stance}
+
+Write the microtext as a single coherent paragraph.
+Do not include explanations, labels, or any additional text.
+
+   prompt_A = f"""Write an argumentative microtext that follows the rules below.
+
+Rules:
+1. The text must consist of exactly 4 sentences.
+2. Sentence 1 must state the single main claim and express the author’s stance.
+3. Sentence 2 must provide a reason that supports the main claim.
+4. Sentence 3 must present a clear counter-argument against the main claim.
+5. Sentence 4 must respond to or weaken the counter-argument.
+6. Do not restate, reformulate, or summarize the main claim after sentence 1.
+7. Do not include any concluding, synthesizing, or evaluative sentence.
+8. Each sentence must express a complete argumentative proposition.
+9. The argument must be understandable on its own without relying on unstated assumptions.
+
+Topic: {topic}
+Stance: {stance}
+
+Write the microtext as a single coherent paragraph.
+Do not include explanations, labels, or any additional text.
+
+"""
+    return f"""Write a short argumentative microtext that follows the rules below.
+
+Rules:
+1. The text must consist of 4 to 6 sentences.
+2. Each sentence must express a complete argumentative proposition.
+3. The text must contain exactly one clear main claim that expresses the author’s stance.
+4. The remaining sentences must provide reasons that either support the main claim or present a clear counter-argument.
+5. At least one sentence must express an opposing viewpoint.
+6. The author must take a clear stance; do not write a neutral or balanced overview.
+7. Do not include background information, narration, or rhetorical filler.
+8. The argument must be understandable on its own without relying on unstated assumptions.
+9. Do not restate or reformulate the main claim in later sentences.
+
+Topic: {topic}
+Stance: {stance}
+
+Write the microtext as a single coherent paragraph.
+Do not include explanations, labels, or any additional text.
+"""
